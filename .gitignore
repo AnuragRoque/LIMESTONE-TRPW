@@ -1,0 +1,9 @@
+zREADME.md
+.history/
+
+node_modules/
+dist/
+.env
+.DS_Store
+
+abc.png
